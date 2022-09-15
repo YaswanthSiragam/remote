@@ -1,3 +1,4 @@
 "example for commits"  
 "second edit"
 "third edit" 
+"fourth edit" 
